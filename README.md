@@ -1,2 +1,2 @@
-# Hendrix-Portfolio
+# My-Portfolio
 Jhon Hendrix Polar's Web Portfolio
