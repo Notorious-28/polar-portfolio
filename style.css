@@ -5,13 +5,13 @@
   box-sizing: border-box;
 }
 
-/* Style the body */
+/* Style of body */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
 
-/* Style the header/navigation */
+/* Style of header/navigation */
 header {
   background-color: #333;
   color: #fff;
@@ -40,4 +40,10 @@ nav a {
   padding: 20px;
 }
 
-/* Add more styles as needed */
+/* Style of footer */
+#footer{
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
