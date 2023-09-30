@@ -6,8 +6,10 @@
   .about-containers {
     flex-wrap: wrap;
   }
-  #contact,
-  #jobexp {
+  #personalskills,
+  #experince,
+  #jobexp,
+  #contact {
     height: fit-content;
   }
 }
